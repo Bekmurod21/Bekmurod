@@ -33,8 +33,14 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src = "https://github.com/bekmurod21/Bekmurod21/assets/113014649/c9bbd872-d88b-4b82-8059-9dc769baee55" width="40px" height="40px" />
-  <img src = "https://github.com/bekmurod21/Bekmurod21/assets/113014649/723c880a-b148-4f88-b48a-20e0c690c672" width="40px" height="40px" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40px" height="40px" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40px" height="40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40px" height="40px"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40px" height="40px" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40px" height="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40px" height="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" height="40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40px" height="40px" />
 </div>
